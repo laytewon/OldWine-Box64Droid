@@ -9,6 +9,13 @@ After the installation is completed, run `box64droid --start`. The script will s
 
 
 
+
+
+
+
+
+
+
 Credits to original Auther:
 Made by a guy from [Lysychansk](https://en.wikipedia.org/wiki/Lysychansk), [Luhansk region](https://en.wikipedia.org/wiki/Luhansk_Oblast) of Ukraine.
 
